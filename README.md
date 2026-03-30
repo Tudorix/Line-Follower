@@ -1,4 +1,5 @@
 # Line-Follower
+!(media/photo.jpg)
 A simple line follower robot built using an ESP32 and infrared sensors. The robot detects and follows a line on the ground using basic control logic.
 # Features
 Line detection using IR sensor array
